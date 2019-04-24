@@ -2,3 +2,4 @@
 加油吧骚年！
 GO GO GO!
 this is error version!
+log reset reflog --hard HEAD^ HEAD~100 --pretty=oneline
