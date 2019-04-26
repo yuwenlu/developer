@@ -4,3 +4,4 @@ GO GO GO!
 this is error version!
 log reset reflog --hard HEAD^ HEAD~100 --pretty=oneline
 Repository Working Directory
+New Day
