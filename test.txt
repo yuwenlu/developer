@@ -6,3 +6,4 @@ Repository Working Directory
 New Day
 Manage Modify
 1111
+git branch 'dev' git checkout dev   git checkout -b dev
