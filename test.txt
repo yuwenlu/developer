@@ -7,3 +7,4 @@ New Day
 Manage Modify
 1111
 git branch 'dev' git checkout dev   git checkout -b dev
+git branch git branch xxx git branch checkout xxx git merge xxx git branch -d xxx
