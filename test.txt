@@ -10,3 +10,4 @@ git branch 'dev' git checkout dev   git checkout -b dev
 git branch git branch xxx git branch checkout xxx git merge xxx git branch -d xxx
 
 this is master and dev new  modify
+auto merge
