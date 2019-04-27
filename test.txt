@@ -11,3 +11,4 @@ git branch git branch xxx git branch checkout xxx git merge xxx git branch -d xx
 
 this is master and dev new  modify
 auto merge
+dev stash
